@@ -4,14 +4,14 @@ const Footer = () => {
   return (
     <div className="note-app__footer">
       <center>
-        Copyright &#169; 2023,{" "}
+        Copyright &#169; 2024,{" "}
         <a
           className="link"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/Muhthoriqas"
+          href="https://github.com/shaikjr"
         >
-          Muh Thoriq AS
+          SHAIK MAHABOOB
         </a>{" "}
       </center>
     </div>
